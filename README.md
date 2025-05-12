@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arushi!
+# 👋 Hi, I'm Arushi! 
 
 ## 🎓 Sophomore at Stevens Institute of Technology, majoring in Computer Science with an AI/ML concentration and a minor in Quantitative Finance.
 
